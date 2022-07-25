@@ -1,0 +1,19 @@
+@media (min-width: 375px) and (max-width: 500px) {
+    .card {
+       
+       width: 85% !important;
+    }
+}
+
+ @media (min-width: 501px) and (max-width: 800px) {
+    .card {
+       
+       width: 60% !important;
+    }
+}
+
+@media (min-width: 801px) {
+    .card {
+       width: 25% !important;
+    }
+}

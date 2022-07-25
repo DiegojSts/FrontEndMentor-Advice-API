@@ -1,0 +1,23 @@
+* {
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+}
+
+.my-advice-id {
+    font-size: 0.6em;
+    font-weight: 100;
+    color: #52ffa8;
+    letter-spacing: .2rem;
+    text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #52ffa8,
+    0 0 82px #52ffa8,
+    0 0 92px #52ffa8,
+    0 0 102px #52ffa8,
+    0 0 151px #52ffa8;
+}
+
+
+

@@ -1,0 +1,14 @@
+button {
+    border-radius: 50%;
+    border: none;
+    width: 14%;
+    height: 23%;
+    padding: 15px;
+    background-color: #52ffa8;
+    margin: 0 0 -18px 0;
+}
+
+button:hover {
+    -webkit-box-shadow: 2px -1px 24px 4px rgba(253, 253, 253, 0.56); 
+    box-shadow: 2px -1px 24px 4px rgba(252, 252, 252, 0.56);
+}

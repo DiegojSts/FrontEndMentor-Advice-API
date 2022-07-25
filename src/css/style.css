@@ -1,0 +1,27 @@
+body {
+    height: 200% !important;
+    background-color: #1f2632;
+}
+
+.icon-dice {
+    height: 18px;
+}
+
+.my-color {
+    background-color: #323a49;
+    color: #cee3e9;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: #4b9dc6;
+  }
+
+  footer {
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
